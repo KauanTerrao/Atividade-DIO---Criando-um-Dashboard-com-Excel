@@ -28,4 +28,4 @@ Criar um Dashboard seguindo as boas práticas, apresentadas na video-aula
 
 ## ✏️ Autor  
 Kauan da Silva Terrão  
-[LinkdIn(https://www.linkedin.com/in/kauan-da-silva-terrão/)]
+[LinkdIn](https://www.linkedin.com/in/kauan-da-silva-terrão/)
